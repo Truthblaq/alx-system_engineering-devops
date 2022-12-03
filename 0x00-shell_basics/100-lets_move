@@ -1,4 +1,4 @@
 #!/bin/bash
-on 100-lets_move
+On 100-lets_move
 
 mv [[:upper:]]* /tmp/u
